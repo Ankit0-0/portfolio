@@ -25,7 +25,6 @@ const About = () => {
       {/* Display the section heading for "About me." */}
       <SectionHeading>About me</SectionHeading>
 
-      {/* Display a paragraph with information about the user's background and interests. */}
       <p className="mb-3">
         I am currently an undergraduate student at{" "}
         <b> Graphic Era Hill University</b>, Dehradun, majoring in{" "}
@@ -42,11 +41,10 @@ const About = () => {
         constantly solving problems on platforms like LeetCode and Codeforces.
       </p>
 
-      {/* Display another paragraph about the user's interests and hobbies. */}
       <p>
         Eager to embark on exciting projects and overcome challenges, I am
         enthusiastic about collaborating with others to create impactful
-        solutions. Let's connect and build something great together!
+        solutions. Let&apos;s connect and build something great together!
       </p>
     </motion.section>
   );
