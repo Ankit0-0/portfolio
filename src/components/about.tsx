@@ -27,18 +27,18 @@ const About = () => {
 
       {/* Display a paragraph with information about the user's background and interests. */}
       <p className="mb-3">
-        Currently an undergraduate student at{" "}
+        I am currently an undergraduate student at{" "}
         <b> Graphic Era Hill University</b>, Dehradun, majoring in{" "}
         <b className="font-medium">computer science engineering.</b> I
-        specialize in building collaborative and real time data sharing
+        specialize in building collaborative and real-time data sharing
         applications leveraging technologies like{" "}
-        <i className="italic">WebSockets and WebRTC </i> making it easier for
-        you to connect with your team, friends and family. Apart from that I
+        <i className="italic">WebSockets and WebRTC, </i> making it easier for
+        you to connect with your team, friends, and family. Apart from that, I
         have a good understanding of
-        <b className="font-medium"> React, Next.js, Node.js, and MongoDB.</b>I
+        <b className="font-medium"> React, Next.js, Node.js, and MongoDB. </b>I
         also possess great problem-solving skills and have a good understanding
         of
-        <i className="font-medium"> Data structures and algorithms</i>,
+        <i className="font-medium"> data structures and algorithms</i>,
         constantly solving problems on platforms like LeetCode and Codeforces.
       </p>
 
